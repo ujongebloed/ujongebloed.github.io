@@ -2365,7 +2365,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				margin-left: 100%;
+				margin-left: -1.25em;
 			}
 
 		/* Main */
