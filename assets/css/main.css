@@ -2250,17 +2250,17 @@ input, select, textarea {
 				background-color: #81918E;
 				background-image: url("../../images/MtHood.jpg");
 			}
-
+/*bookmark*/
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #fff; /* #f5fafa;*/
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #fff; /*#ecf1f1;*/
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #fff; /*#e8edec;*/
 			}
 
 /* Wide */
