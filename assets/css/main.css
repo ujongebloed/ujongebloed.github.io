@@ -1912,7 +1912,7 @@ input, select, textarea {
 	}
 
 		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+			background: #fff; /*#f4f4f4;*/
 		}
 
 		table td {
